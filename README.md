@@ -1,8 +1,9 @@
-- 👋 Hello, I’m @DevGutta
-- 👀 I was originally introduced to crypto in 2017 right before that first 5 figure legendary bull run that ended ~20k. Even then, I didn't really understand what crypto was and when that bear market in 2018 took hold, I lost interest in the space. What a mistake. I entered the space again at the end of 2020 and fully immersed myself in it. A few months in, I realized that trading didn't really bring me any joy and eventually decided that I wanted to become a programmer. I had tried my hands at other languages in the past but none ever satisfied me. When I deployed my first smart contract on the Rinkeby test net, I realized this is what would make me feel fulfilled.
-- 🌱 I’m currently learning Solidity and have experience in React.js and Next.js. I'm not really worried about my weaknesses here because when you think about it, nothing stops you from learning whatever you want. With that freeing mentality, I'll learn any necessary components to support Solidity. 
+- 👋 Hello, I’m Gutta. 
+- I've been a crypto enthusiast for a long time but only made the jump to learning programming in the crypto space this year. I originally took a CS50 course online last year but the workload was incredibly difficult for someone with no programming experience. I took a few months off after that and really realized that learning programming in the context of the crypto space was the only way it was ever going to stick. 
+- I started learning Solidity in April/May 2021 and have been on it on a near daily basis since. When I deployed my first smart contract on the Rinkeby test net, I realized this is what would make me feel fulfilled.
+- 🌱 I’m currently honing my Solidity skills on my first unguided project. I also have experience in React.js and Next.js in the context of tutorials. I'm not really worried about my weaknesses here because I don't see a reason why I couldn't learn the necessary skills to support Solidity. 
 - 💞️ I’m really looking for any solid opportunity to use these skills that I really committed to learn. 
-- :computer: Technologies: Solidity, Truffle, Ganache, Next.js, React.js, Git/Github (do these count lol?) at the moment. More will be added as I become more experienced.
+- :computer: Current Technologies: Solidity, Truffle, Ganache, minor experience in React.js/Next.js, and Git/Github at the moment. More will be added as I become more experienced.
 - 📫 How to reach me dev_attug@protonmail.com but the fastest way is through Twitter at ___gutta (3 underscores).
 
 <!---
