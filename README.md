@@ -1,10 +1,12 @@
-- 👋 Hello, I’m Gutta. I'm glad and excited that you made it to my Github. 
-- :monocle_face: I started learning Solidity in April/May 2021 and have been on it on a near daily basis since. When I deployed my first smart contract on the Rinkeby test net, I realized this is what would make me feel fulfilled.
-- :purple_heart: I’m really looking for any solid opportunity to use these skills that I learned/am learning. Hard work isn't a deterrent to me. My dream would be to be to work in Web3 full time.
-- :computer: Current Technologies: Solidity, Typescript (learning), Truffle, Ganache, React, and Git/Github at the moment. 
-- 📫 How to reach me: dev_attug@protonmail.com
+- 👋 Hello, the name is Anon Deveano. 
+- :monocle_face: I'm an aspiring Web3 dev. I'm self taught, ambitious, and hard work is a challenge rather than a deterrence. At this point, I've been learning for close to a year and I'm currently working on my unguided project.
+- :computer: Current project details: Backend done with Solidity and front end will be done in TypeScript. To bring everything full circle, I'll also need to deploy a bot/script in JS
+- :chart_with_upwards_trend: I still plan to deploy Polarlys (Tomb fork) 
+- :purple_heart: I’m looking to add value in the Web3 space and converting to Web3 full time would be my dream. 
+- :computer: Current Technologies: Solidity, Typescript (learning), Truffle, Ganache, React, and Git/Github; more will be added as I need to learn them.
+- 📫 How to reach me: dev_attug@protonmail.com or Twitter at @anon_deveano
 
 <!---
-DevGutta/DevGutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AnonDeveano/AnonDeveano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
