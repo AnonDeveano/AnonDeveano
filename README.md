@@ -1,4 +1,4 @@
-- 👋 Hello, the name is Anon Deveano. 
+- 👋 Hello, the name is Gutta. 
 - :monocle_face: I'm an aspiring Web3 dev. I'm self taught, ambitious, and hard work is a challenge rather than a deterrent. At this point, I've been learning for close to a year and I'm currently working on my unguided project.
 - :computer: Current project details: Backend done with Solidity and front end will be done in TypeScript. To bring everything full circle, I'll also need to deploy a bot/script in JS
 - :chart_with_upwards_trend: I still plan to deploy Polarlys (Tomb fork) 
